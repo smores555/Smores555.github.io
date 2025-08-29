@@ -1,0 +1,72 @@
+[
+  {
+    "Base": "ANC",
+    "Position": "CA",
+    "Seniority # to hold": 2075,
+    "Most junior DOH": "2017-10-30",
+    "Name": "COLLIER, WILLIAM"
+  },
+  {
+    "Base": "ANC",
+    "Position": "FO",
+    "Seniority # to hold": 3039,
+    "Most junior DOH": "2023-01-30",
+    "Name": "SAUNDERS, WOODSEN"
+  },
+  {
+    "Base": "SEA",
+    "Position": "CA",
+    "Seniority # to hold": 2218,
+    "Most junior DOH": "2018-05-07",
+    "Name": "BUCKLEY, DAN"
+  },
+  {
+    "Base": "SEA",
+    "Position": "FO",
+    "Seniority # to hold": 3278,
+    "Most junior DOH": "2023-08-21",
+    "Name": "WELBORN, STUART"
+  },
+  {
+    "Base": "PDX",
+    "Position": "CA",
+    "Seniority # to hold": 1889,
+    "Most junior DOH": "2017-01-18",
+    "Name": "BLANCO, CHRISTOPHER"
+  },
+  {
+    "Base": "PDX",
+    "Position": "FO",
+    "Seniority # to hold": 3132,
+    "Most junior DOH": "2023-04-03",
+    "Name": "LEE, TRAVIS"
+  },
+  {
+    "Base": "SFO",
+    "Position": "CA",
+    "Seniority # to hold": 2302,
+    "Most junior DOH": "2019-01-14",
+    "Name": "HUNTTING, PRESTON"
+  },
+  {
+    "Base": "SFO",
+    "Position": "FO",
+    "Seniority # to hold": 3350,
+    "Most junior DOH": "2024-02-12",
+    "Name": "COMPTON, ANTHONY"
+  },
+  {
+    "Base": "LAX",
+    "Position": "CA",
+    "Seniority # to hold": 1821,
+    "Most junior DOH": "2016-11-02",
+    "Name": "WALL, CECIL"
+  },
+  {
+    "Base": "LAX",
+    "Position": "FO",
+    "Seniority # to hold": 3353,
+    "Most junior DOH": "2024-02-12",
+    "Name": "SOLLOWAY, STEVEN (STEVE)"
+  }
+]
