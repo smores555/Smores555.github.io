@@ -1,0 +1,2482 @@
+[
+  {
+    "Enter Seniority #": "What-if Rank in this base/seat",
+    "Unnamed: 1": 1,
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null,
+    "Unnamed: 5": null,
+    "Unnamed: 6": null,
+    "Unnamed: 7": null
+  },
+  {
+    "Enter Seniority #": "Base % (rank/total)",
+    "Unnamed: 1": 0.004081632653,
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null,
+    "Unnamed: 5": null,
+    "Unnamed: 6": null,
+    "Unnamed: 7": null
+  },
+  {
+    "Enter Seniority #": "Original Seniority Number",
+    "Unnamed: 1": "Base",
+    "Unnamed: 2": "Position",
+    "Unnamed: 3": "Name",
+    "Unnamed: 4": "Date of Hire",
+    "Unnamed: 5": "Retirement Date",
+    "Unnamed: 6": "Projected Seniority at Retirement",
+    "Unnamed: 7": "Base Rank"
+  },
+  {
+    "Enter Seniority #": 1889,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "Most junior to hold (cutline)",
+    "Unnamed: 4": "2017-01-18",
+    "Unnamed: 5": "2047-01-01",
+    "Unnamed: 6": null,
+    "Unnamed: 7": null
+  },
+  {
+    "Enter Seniority #": 30,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HALDEMAN, JAMES R.",
+    "Unnamed: 4": "1992-03-02",
+    "Unnamed: 5": "2027-10-01",
+    "Unnamed: 6": 13,
+    "Unnamed: 7": 1
+  },
+  {
+    "Enter Seniority #": 32,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DUNHAM, KENNETH G.",
+    "Unnamed: 4": "1992-03-23",
+    "Unnamed: 5": "2026-05-01",
+    "Unnamed: 6": 23,
+    "Unnamed: 7": 2
+  },
+  {
+    "Enter Seniority #": 44,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ROECKERS, MARK E.",
+    "Unnamed: 4": "1992-05-11",
+    "Unnamed: 5": "2027-03-01",
+    "Unnamed: 6": 27,
+    "Unnamed: 7": 3
+  },
+  {
+    "Enter Seniority #": 55,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "VANDERVILLE, DAVID A.",
+    "Unnamed: 4": "1995-08-21",
+    "Unnamed: 5": "2031-03-01",
+    "Unnamed: 6": 3,
+    "Unnamed: 7": 4
+  },
+  {
+    "Enter Seniority #": 66,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "CHABERT, STANLEY M.",
+    "Unnamed: 4": "1995-10-09",
+    "Unnamed: 5": "2033-01-01",
+    "Unnamed: 6": 1,
+    "Unnamed: 7": 5
+  },
+  {
+    "Enter Seniority #": 70,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BURTON, DOUGLAS M.",
+    "Unnamed: 4": "1996-01-02",
+    "Unnamed: 5": "2028-06-01",
+    "Unnamed: 6": 26,
+    "Unnamed: 7": 6
+  },
+  {
+    "Enter Seniority #": 71,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DYE, BLANE D.",
+    "Unnamed: 4": "1996-01-02",
+    "Unnamed: 5": "2029-06-01",
+    "Unnamed: 6": 17,
+    "Unnamed: 7": 7
+  },
+  {
+    "Enter Seniority #": 89,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "McDONOUGH, M. JIM",
+    "Unnamed: 4": "1996-05-13",
+    "Unnamed: 5": "2029-03-01",
+    "Unnamed: 6": 28,
+    "Unnamed: 7": 8
+  },
+  {
+    "Enter Seniority #": 105,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "RIFE, MICHAEL",
+    "Unnamed: 4": "1996-08-05",
+    "Unnamed: 5": "2027-03-01",
+    "Unnamed: 6": 81,
+    "Unnamed: 7": 9
+  },
+  {
+    "Enter Seniority #": 109,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DUETTRA, MICHAEL R.",
+    "Unnamed: 4": "1996-08-05",
+    "Unnamed: 5": "2032-04-01",
+    "Unnamed: 6": 12,
+    "Unnamed: 7": 10
+  },
+  {
+    "Enter Seniority #": 116,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KAYLER III, DONALD C.",
+    "Unnamed: 4": "1996-10-07",
+    "Unnamed: 5": "2025-09-01",
+    "Unnamed: 6": 114,
+    "Unnamed: 7": 11
+  },
+  {
+    "Enter Seniority #": 123,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "VanGRUNSVEN, MARK A.",
+    "Unnamed: 4": "1996-10-07",
+    "Unnamed: 5": "2030-05-01",
+    "Unnamed: 6": 31,
+    "Unnamed: 7": 12
+  },
+  {
+    "Enter Seniority #": 126,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SABO, JEFFREY S.",
+    "Unnamed: 4": "1996-11-04",
+    "Unnamed: 5": "2026-11-01",
+    "Unnamed: 6": 105,
+    "Unnamed: 7": 13
+  },
+  {
+    "Enter Seniority #": 131,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ADAMS, MICHAEL A.",
+    "Unnamed: 4": "1997-01-06",
+    "Unnamed: 5": "2025-12-01",
+    "Unnamed: 6": 124,
+    "Unnamed: 7": 14
+  },
+  {
+    "Enter Seniority #": 138,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HILTON, ALAN S.",
+    "Unnamed: 4": "1997-03-17",
+    "Unnamed: 5": "2026-05-01",
+    "Unnamed: 6": 122,
+    "Unnamed: 7": 15
+  },
+  {
+    "Enter Seniority #": 149,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "NADDEF, MICHAEL S.",
+    "Unnamed: 4": "1997-07-28",
+    "Unnamed: 5": "2025-10-01",
+    "Unnamed: 6": 145,
+    "Unnamed: 7": 16
+  },
+  {
+    "Enter Seniority #": 159,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "TRAPHAGEN, JERROLD D.",
+    "Unnamed: 4": "1998-01-12",
+    "Unnamed: 5": "2027-09-01",
+    "Unnamed: 6": 111,
+    "Unnamed: 7": 17
+  },
+  {
+    "Enter Seniority #": 170,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ROACH, DAVID P.",
+    "Unnamed: 4": "1998-02-02",
+    "Unnamed: 5": "2029-07-01",
+    "Unnamed: 6": 71,
+    "Unnamed: 7": 18
+  },
+  {
+    "Enter Seniority #": 191,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MOFFAT, JAMES A.",
+    "Unnamed: 4": "1998-09-21",
+    "Unnamed: 5": "2028-11-01",
+    "Unnamed: 6": 107,
+    "Unnamed: 7": 19
+  },
+  {
+    "Enter Seniority #": 211,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "REHMEYER, DAVID M.",
+    "Unnamed: 4": "1998-12-21",
+    "Unnamed: 5": "2031-05-01",
+    "Unnamed: 6": 64,
+    "Unnamed: 7": 20
+  },
+  {
+    "Enter Seniority #": 215,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WHITING, FRANCIS W.",
+    "Unnamed: 4": "1999-01-25",
+    "Unnamed: 5": "2031-01-01",
+    "Unnamed: 6": 72,
+    "Unnamed: 7": 21
+  },
+  {
+    "Enter Seniority #": 216,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MERTENS, JASON J.",
+    "Unnamed: 4": "1999-01-25",
+    "Unnamed: 5": "2034-03-01",
+    "Unnamed: 6": 26,
+    "Unnamed: 7": 22
+  },
+  {
+    "Enter Seniority #": 221,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GEIGER, MICHAEL",
+    "Unnamed: 4": "2006-10-30",
+    "Unnamed: 5": "2027-02-01",
+    "Unnamed: 6": 190,
+    "Unnamed: 7": 23
+  },
+  {
+    "Enter Seniority #": 227,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HUTSON, SANDRA E.",
+    "Unnamed: 4": "1999-03-22",
+    "Unnamed: 5": "2027-10-01",
+    "Unnamed: 6": 169,
+    "Unnamed: 7": 24
+  },
+  {
+    "Enter Seniority #": 228,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "STEINBRENNER, ERIC M.",
+    "Unnamed: 4": "1999-03-22",
+    "Unnamed: 5": "2034-09-01",
+    "Unnamed: 6": 23,
+    "Unnamed: 7": 25
+  },
+  {
+    "Enter Seniority #": 235,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "JATHO, STEVEN P.",
+    "Unnamed: 4": "1999-05-13",
+    "Unnamed: 5": "2032-11-01",
+    "Unnamed: 6": 43,
+    "Unnamed: 7": 26
+  },
+  {
+    "Enter Seniority #": 242,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KELLOGG, WARD J.",
+    "Unnamed: 4": "1999-06-21",
+    "Unnamed: 5": "2031-09-01",
+    "Unnamed: 6": 69,
+    "Unnamed: 7": 27
+  },
+  {
+    "Enter Seniority #": 246,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KRIESE, STEVEN E.",
+    "Unnamed: 4": "1999-07-19",
+    "Unnamed: 5": "2032-03-01",
+    "Unnamed: 6": 59,
+    "Unnamed: 7": 28
+  },
+  {
+    "Enter Seniority #": 248,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BETTY, JAMES C.",
+    "Unnamed: 4": "1999-08-23",
+    "Unnamed: 5": "2030-08-01",
+    "Unnamed: 6": 103,
+    "Unnamed: 7": 29
+  },
+  {
+    "Enter Seniority #": 287,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "COOK, MICHAEL",
+    "Unnamed: 4": "2000-01-03",
+    "Unnamed: 5": "2032-05-01",
+    "Unnamed: 6": 72,
+    "Unnamed: 7": 30
+  },
+  {
+    "Enter Seniority #": 288,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DOYEL, JOHN M.",
+    "Unnamed: 4": "2000-01-03",
+    "Unnamed: 5": "2034-07-01",
+    "Unnamed: 6": 39,
+    "Unnamed: 7": 31
+  },
+  {
+    "Enter Seniority #": 301,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "JOYNER, THOMAS W.",
+    "Unnamed: 4": "2000-01-31",
+    "Unnamed: 5": "2035-12-01",
+    "Unnamed: 6": 21,
+    "Unnamed: 7": 32
+  },
+  {
+    "Enter Seniority #": 304,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GAY, KELLY D.",
+    "Unnamed: 4": "2000-02-28",
+    "Unnamed: 5": "2029-07-01",
+    "Unnamed: 6": 181,
+    "Unnamed: 7": 33
+  },
+  {
+    "Enter Seniority #": 307,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HIX, CHRISTIAN",
+    "Unnamed: 4": "2007-06-18",
+    "Unnamed: 5": "2028-12-01",
+    "Unnamed: 6": 205,
+    "Unnamed: 7": 34
+  },
+  {
+    "Enter Seniority #": 308,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DEVINE, TIMOTHY C.",
+    "Unnamed: 4": "2000-03-27",
+    "Unnamed: 5": "2030-12-01",
+    "Unnamed: 6": 130,
+    "Unnamed: 7": 35
+  },
+  {
+    "Enter Seniority #": 312,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PARKER, JEFFREY S.",
+    "Unnamed: 4": "2000-05-19",
+    "Unnamed: 5": "2026-12-01",
+    "Unnamed: 6": 278,
+    "Unnamed: 7": 36
+  },
+  {
+    "Enter Seniority #": 316,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WESSEL, MATTHEW W.",
+    "Unnamed: 4": "2000-05-19",
+    "Unnamed: 5": "2032-03-01",
+    "Unnamed: 6": 89,
+    "Unnamed: 7": 37
+  },
+  {
+    "Enter Seniority #": 331,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "VILLARREAL, SALVADOR",
+    "Unnamed: 4": "2007-07-16",
+    "Unnamed: 5": "2031-03-01",
+    "Unnamed: 6": 136,
+    "Unnamed: 7": 38
+  },
+  {
+    "Enter Seniority #": 340,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "AINARDI, JASON M.",
+    "Unnamed: 4": "2000-06-19",
+    "Unnamed: 5": "2037-05-01",
+    "Unnamed: 6": 11,
+    "Unnamed: 7": 39
+  },
+  {
+    "Enter Seniority #": 343,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PHILLIPS, M. TODD",
+    "Unnamed: 4": "2000-07-24",
+    "Unnamed: 5": "2028-04-01",
+    "Unnamed: 6": 252,
+    "Unnamed: 7": 40
+  },
+  {
+    "Enter Seniority #": 358,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "QUIETT, AARON R.",
+    "Unnamed: 4": "2000-07-24",
+    "Unnamed: 5": "2035-10-01",
+    "Unnamed: 6": 33,
+    "Unnamed: 7": 41
+  },
+  {
+    "Enter Seniority #": 376,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LAUDON, ALEXANDRE J.",
+    "Unnamed: 4": "2000-09-25",
+    "Unnamed: 5": "2031-01-01",
+    "Unnamed: 6": 176,
+    "Unnamed: 7": 42
+  },
+  {
+    "Enter Seniority #": 379,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "NORMAND, \"BUFF\" ARTHUR B.",
+    "Unnamed: 4": "2000-09-25",
+    "Unnamed: 5": "2034-06-01",
+    "Unnamed: 6": 68,
+    "Unnamed: 7": 43
+  },
+  {
+    "Enter Seniority #": 389,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SMITH, MARK A.",
+    "Unnamed: 4": "2000-10-23",
+    "Unnamed: 5": "2028-03-01",
+    "Unnamed: 6": 292,
+    "Unnamed: 7": 44
+  },
+  {
+    "Enter Seniority #": 394,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DUPLAIN, RICHARD A.",
+    "Unnamed: 4": "2000-10-23",
+    "Unnamed: 5": "2033-01-01",
+    "Unnamed: 6": 108,
+    "Unnamed: 7": 45
+  },
+  {
+    "Enter Seniority #": 406,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "OLSON, KURT F.",
+    "Unnamed: 4": "2000-11-03",
+    "Unnamed: 5": "2037-03-01",
+    "Unnamed: 6": 22,
+    "Unnamed: 7": 46
+  },
+  {
+    "Enter Seniority #": 407,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KELLY, ERIN",
+    "Unnamed: 4": "2007-09-17",
+    "Unnamed: 5": "2040-10-01",
+    "Unnamed: 6": 2,
+    "Unnamed: 7": 47
+  },
+  {
+    "Enter Seniority #": 412,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ALLISON, JOHN P.",
+    "Unnamed: 4": "2000-11-27",
+    "Unnamed: 5": "2032-03-01",
+    "Unnamed: 6": 153,
+    "Unnamed: 7": 48
+  },
+  {
+    "Enter Seniority #": 440,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PORTER, SAMUEL J.",
+    "Unnamed: 4": "2001-01-08",
+    "Unnamed: 5": "2034-11-01",
+    "Unnamed: 6": 79,
+    "Unnamed: 7": 49
+  },
+  {
+    "Enter Seniority #": 461,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BEDNORZ, MARK J.",
+    "Unnamed: 4": "2001-02-05",
+    "Unnamed: 5": "2036-04-01",
+    "Unnamed: 6": 47,
+    "Unnamed: 7": 50
+  },
+  {
+    "Enter Seniority #": 475,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HUSEBY, TIMOTHY",
+    "Unnamed: 4": "2007-12-03",
+    "Unnamed: 5": "2030-05-01",
+    "Unnamed: 6": 267,
+    "Unnamed: 7": 51
+  },
+  {
+    "Enter Seniority #": 483,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DOHERTY, RICHARD B.",
+    "Unnamed: 4": "2001-04-02",
+    "Unnamed: 5": "2026-04-01",
+    "Unnamed: 6": 459,
+    "Unnamed: 7": 52
+  },
+  {
+    "Enter Seniority #": 487,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "YORK, ANDREW L.",
+    "Unnamed: 4": "2001-04-02",
+    "Unnamed: 5": "2030-10-01",
+    "Unnamed: 6": 259,
+    "Unnamed: 7": 53
+  },
+  {
+    "Enter Seniority #": 505,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ELMER, ROBERT M.",
+    "Unnamed: 4": "2001-04-30",
+    "Unnamed: 5": "2030-06-01",
+    "Unnamed: 6": 281,
+    "Unnamed: 7": 54
+  },
+  {
+    "Enter Seniority #": 508,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HOFFMAN, EDWARD L.",
+    "Unnamed: 4": "2001-04-30",
+    "Unnamed: 5": "2031-08-01",
+    "Unnamed: 6": 237,
+    "Unnamed: 7": 55
+  },
+  {
+    "Enter Seniority #": 511,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "CRYSDALE, KENT",
+    "Unnamed: 4": "2008-01-17",
+    "Unnamed: 5": "2031-02-01",
+    "Unnamed: 6": 259,
+    "Unnamed: 7": 56
+  },
+  {
+    "Enter Seniority #": 524,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "TAYLOR, MARK A.",
+    "Unnamed: 4": "2001-05-25",
+    "Unnamed: 5": "2031-12-01",
+    "Unnamed: 6": 227,
+    "Unnamed: 7": 57
+  },
+  {
+    "Enter Seniority #": 552,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HEAGY, BRIAN S.",
+    "Unnamed: 4": "2001-08-20",
+    "Unnamed: 5": "2034-05-01",
+    "Unnamed: 6": 150,
+    "Unnamed: 7": 58
+  },
+  {
+    "Enter Seniority #": 558,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MARKSTALLER, MICHAEL G.",
+    "Unnamed: 4": "2001-09-17",
+    "Unnamed: 5": "2029-02-01",
+    "Unnamed: 6": 403,
+    "Unnamed: 7": 59
+  },
+  {
+    "Enter Seniority #": 559,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SCHMITZ, DAVID B.",
+    "Unnamed: 4": "2001-09-17",
+    "Unnamed: 5": "2033-07-01",
+    "Unnamed: 6": 179,
+    "Unnamed: 7": 60
+  },
+  {
+    "Enter Seniority #": 566,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BUZZELL, MARK",
+    "Unnamed: 4": "2008-03-27",
+    "Unnamed: 5": "2033-06-01",
+    "Unnamed: 6": 182,
+    "Unnamed: 7": 61
+  },
+  {
+    "Enter Seniority #": 577,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PRIES, CHRISTOPHER R.",
+    "Unnamed: 4": "2002-08-05",
+    "Unnamed: 5": "2028-06-01",
+    "Unnamed: 6": 448,
+    "Unnamed: 7": 62
+  },
+  {
+    "Enter Seniority #": 579,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "RABOIN, DAVID",
+    "Unnamed: 4": "2008-04-07",
+    "Unnamed: 5": "2040-01-01",
+    "Unnamed: 6": 16,
+    "Unnamed: 7": 63
+  },
+  {
+    "Enter Seniority #": 612,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PERCIVAL, TODD A.",
+    "Unnamed: 4": "2002-10-07",
+    "Unnamed: 5": "2036-01-01",
+    "Unnamed: 6": 98,
+    "Unnamed: 7": 64
+  },
+  {
+    "Enter Seniority #": 615,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MAHRT, GEOFFREY",
+    "Unnamed: 4": "2008-05-01",
+    "Unnamed: 5": "2038-12-01",
+    "Unnamed: 6": 30,
+    "Unnamed: 7": 65
+  },
+  {
+    "Enter Seniority #": 618,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WEATHERS, CHRISTOPHER C.",
+    "Unnamed: 4": "2002-11-01",
+    "Unnamed: 5": "2030-05-01",
+    "Unnamed: 6": 376,
+    "Unnamed: 7": 66
+  },
+  {
+    "Enter Seniority #": 619,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "TEDFORD, JAMES",
+    "Unnamed: 4": "2008-05-12",
+    "Unnamed: 5": "2042-06-01",
+    "Unnamed: 6": 6,
+    "Unnamed: 7": 67
+  },
+  {
+    "Enter Seniority #": 622,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LOUIS, KEITH",
+    "Unnamed: 4": "2008-05-12",
+    "Unnamed: 5": "2038-02-01",
+    "Unnamed: 6": 44,
+    "Unnamed: 7": 68
+  },
+  {
+    "Enter Seniority #": 635,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DEVORE, GREGORY S.",
+    "Unnamed: 4": "2003-02-03",
+    "Unnamed: 5": "2034-12-01",
+    "Unnamed: 6": 155,
+    "Unnamed: 7": 69
+  },
+  {
+    "Enter Seniority #": 637,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "THOMPSON, JONATHAN D.",
+    "Unnamed: 4": "2003-03-03",
+    "Unnamed: 5": "2026-10-01",
+    "Unnamed: 6": 587,
+    "Unnamed: 7": 70
+  },
+  {
+    "Enter Seniority #": 645,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "REID, STEVEN E.",
+    "Unnamed: 4": "2003-04-07",
+    "Unnamed: 5": "2026-08-01",
+    "Unnamed: 6": 604,
+    "Unnamed: 7": 71
+  },
+  {
+    "Enter Seniority #": 646,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "TSEMENTZIS, SOTIRIOS E.",
+    "Unnamed: 4": "2003-04-07",
+    "Unnamed: 5": "2030-05-01",
+    "Unnamed: 6": 393,
+    "Unnamed: 7": 72
+  },
+  {
+    "Enter Seniority #": 649,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BERNETHY, DUANE C.",
+    "Unnamed: 4": "2003-04-07",
+    "Unnamed: 5": "2033-09-01",
+    "Unnamed: 6": 220,
+    "Unnamed: 7": 73
+  },
+  {
+    "Enter Seniority #": 656,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LAWSON, MICHAEL",
+    "Unnamed: 4": "2008-05-19",
+    "Unnamed: 5": "2037-09-01",
+    "Unnamed: 6": 53,
+    "Unnamed: 7": 74
+  },
+  {
+    "Enter Seniority #": 662,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BOTTELBERGHE, ROLLAND M.",
+    "Unnamed: 4": "2005-01-03",
+    "Unnamed: 5": "2033-08-01",
+    "Unnamed: 6": 231,
+    "Unnamed: 7": 75
+  },
+  {
+    "Enter Seniority #": 687,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SCHNEIDER, ERIC N.",
+    "Unnamed: 4": "2005-10-17",
+    "Unnamed: 5": "2037-07-01",
+    "Unnamed: 6": 62,
+    "Unnamed: 7": 76
+  },
+  {
+    "Enter Seniority #": 689,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MESJAK, TIMOTHY R.",
+    "Unnamed: 4": "2005-10-17",
+    "Unnamed: 5": "2038-01-01",
+    "Unnamed: 6": 50,
+    "Unnamed: 7": 77
+  },
+  {
+    "Enter Seniority #": 708,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "JOLLEY, MARCEL L.",
+    "Unnamed: 4": "2005-12-12",
+    "Unnamed: 5": "2034-06-01",
+    "Unnamed: 6": 222,
+    "Unnamed: 7": 78
+  },
+  {
+    "Enter Seniority #": 709,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GALLAHER, RICHARD D.",
+    "Unnamed: 4": "2005-12-12",
+    "Unnamed: 5": "2035-04-01",
+    "Unnamed: 6": 171,
+    "Unnamed: 7": 79
+  },
+  {
+    "Enter Seniority #": 729,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HUTCHINS, DANIEL",
+    "Unnamed: 4": "2008-10-20",
+    "Unnamed: 5": "2037-10-01",
+    "Unnamed: 6": 71,
+    "Unnamed: 7": 80
+  },
+  {
+    "Enter Seniority #": 734,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "CATHERALL, MICHAEL J.",
+    "Unnamed: 4": "2006-03-20",
+    "Unnamed: 5": "2034-11-01",
+    "Unnamed: 6": 212,
+    "Unnamed: 7": 81
+  },
+  {
+    "Enter Seniority #": 741,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "VILLARREAL, LINDA",
+    "Unnamed: 4": "2008-11-04",
+    "Unnamed: 5": "2035-05-01",
+    "Unnamed: 6": 191,
+    "Unnamed: 7": 82
+  },
+  {
+    "Enter Seniority #": 760,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WILLAUER, ERIK A.",
+    "Unnamed: 4": "2006-04-17",
+    "Unnamed: 5": "2036-01-01",
+    "Unnamed: 6": 164,
+    "Unnamed: 7": 83
+  },
+  {
+    "Enter Seniority #": 764,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ZENNER, MICHAEL",
+    "Unnamed: 4": "2008-11-24",
+    "Unnamed: 5": "2035-07-01",
+    "Unnamed: 6": 195,
+    "Unnamed: 7": 84
+  },
+  {
+    "Enter Seniority #": 770,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "McLAREN II, DOUGLAS C.",
+    "Unnamed: 4": "2006-05-19",
+    "Unnamed: 5": "2041-06-01",
+    "Unnamed: 6": 23,
+    "Unnamed: 7": 85
+  },
+  {
+    "Enter Seniority #": 774,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WAGNER, BERTRAM W.",
+    "Unnamed: 4": "2006-06-05",
+    "Unnamed: 5": "2033-05-01",
+    "Unnamed: 6": 332,
+    "Unnamed: 7": 86
+  },
+  {
+    "Enter Seniority #": 787,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LEE, CORY D.",
+    "Unnamed: 4": "2006-06-19",
+    "Unnamed: 5": "2037-06-01",
+    "Unnamed: 6": 103,
+    "Unnamed: 7": 87
+  },
+  {
+    "Enter Seniority #": 799,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SWENSON, TODD A.",
+    "Unnamed: 4": "2006-06-29",
+    "Unnamed: 5": "2034-04-01",
+    "Unnamed: 6": 308,
+    "Unnamed: 7": 88
+  },
+  {
+    "Enter Seniority #": 801,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HARE, MICHAEL F.",
+    "Unnamed: 4": "2006-06-29",
+    "Unnamed: 5": "2039-02-01",
+    "Unnamed: 6": 65,
+    "Unnamed: 7": 89
+  },
+  {
+    "Enter Seniority #": 836,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "INMAN, DARRICK C.",
+    "Unnamed: 4": "2006-09-18",
+    "Unnamed: 5": "2039-01-01",
+    "Unnamed: 6": 78,
+    "Unnamed: 7": 90
+  },
+  {
+    "Enter Seniority #": 852,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DAVIS, WILLIAM E.",
+    "Unnamed: 4": "2006-10-23",
+    "Unnamed: 5": "2038-07-01",
+    "Unnamed: 6": 97,
+    "Unnamed: 7": 91
+  },
+  {
+    "Enter Seniority #": 853,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KANDARIAN, NEAL B.",
+    "Unnamed: 4": "2006-10-23",
+    "Unnamed: 5": "2039-03-01",
+    "Unnamed: 6": 79,
+    "Unnamed: 7": 92
+  },
+  {
+    "Enter Seniority #": 864,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "JARAMILLO, CHARLES A.",
+    "Unnamed: 4": "2006-11-27",
+    "Unnamed: 5": "2032-12-01",
+    "Unnamed: 6": 426,
+    "Unnamed: 7": 93
+  },
+  {
+    "Enter Seniority #": 898,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "RUHL, JASON R.",
+    "Unnamed: 4": "2007-02-05",
+    "Unnamed: 5": "2035-04-01",
+    "Unnamed: 6": 299,
+    "Unnamed: 7": 94
+  },
+  {
+    "Enter Seniority #": 915,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MAHONEY, PATRICK",
+    "Unnamed: 4": "2010-07-26",
+    "Unnamed: 5": "2029-06-01",
+    "Unnamed: 6": 705,
+    "Unnamed: 7": 95
+  },
+  {
+    "Enter Seniority #": 922,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "RIPSAM, STEFAN",
+    "Unnamed: 4": "2010-08-16",
+    "Unnamed: 5": "2042-09-01",
+    "Unnamed: 6": 25,
+    "Unnamed: 7": 96
+  },
+  {
+    "Enter Seniority #": 930,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "COLLINS, ANDREW",
+    "Unnamed: 4": "2010-08-30",
+    "Unnamed: 5": "2045-01-01",
+    "Unnamed: 6": 7,
+    "Unnamed: 7": 97
+  },
+  {
+    "Enter Seniority #": 934,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DOWNS, JASON",
+    "Unnamed: 4": "2010-09-09",
+    "Unnamed: 5": "2039-06-01",
+    "Unnamed: 6": 101,
+    "Unnamed: 7": 98
+  },
+  {
+    "Enter Seniority #": 936,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ROSE, SCOTT N.",
+    "Unnamed: 4": "2007-04-23",
+    "Unnamed: 5": "2034-10-01",
+    "Unnamed: 6": 349,
+    "Unnamed: 7": 99
+  },
+  {
+    "Enter Seniority #": 941,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BERRY, DONALD R.",
+    "Unnamed: 4": "2007-04-23",
+    "Unnamed: 5": "2039-08-01",
+    "Unnamed: 6": 99,
+    "Unnamed: 7": 100
+  },
+  {
+    "Enter Seniority #": 962,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ROSSING, MICHAEL",
+    "Unnamed: 4": "2010-11-04",
+    "Unnamed: 5": "2034-03-01",
+    "Unnamed: 6": 433,
+    "Unnamed: 7": 101
+  },
+  {
+    "Enter Seniority #": 963,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "NICCOLLS, ROBERT S.",
+    "Unnamed: 4": "2007-06-18",
+    "Unnamed: 5": "2029-05-01",
+    "Unnamed: 6": 755,
+    "Unnamed: 7": 102
+  },
+  {
+    "Enter Seniority #": 968,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LINGLET, JEREMIE",
+    "Unnamed: 4": "2007-06-18",
+    "Unnamed: 5": "2036-03-01",
+    "Unnamed: 6": 265,
+    "Unnamed: 7": 103
+  },
+  {
+    "Enter Seniority #": 970,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "STARK, CHAD T.",
+    "Unnamed: 4": "2007-06-18",
+    "Unnamed: 5": "2037-05-01",
+    "Unnamed: 6": 200,
+    "Unnamed: 7": 104
+  },
+  {
+    "Enter Seniority #": 979,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "NARDI, MARCO",
+    "Unnamed: 4": "2010-12-06",
+    "Unnamed: 5": "2035-08-01",
+    "Unnamed: 6": 319,
+    "Unnamed: 7": 105
+  },
+  {
+    "Enter Seniority #": 982,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WATERS, JAY",
+    "Unnamed: 4": "2010-12-20",
+    "Unnamed: 5": "2040-07-01",
+    "Unnamed: 6": 91,
+    "Unnamed: 7": 106
+  },
+  {
+    "Enter Seniority #": 993,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ERICKSON, CHRISTOPHER S.",
+    "Unnamed: 4": "2007-07-23",
+    "Unnamed: 5": "2041-07-01",
+    "Unnamed: 6": 65,
+    "Unnamed: 7": 107
+  },
+  {
+    "Enter Seniority #": 996,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DAVIES, LUCAS A.",
+    "Unnamed: 4": "2007-07-23",
+    "Unnamed: 5": "2045-05-01",
+    "Unnamed: 6": 6,
+    "Unnamed: 7": 108
+  },
+  {
+    "Enter Seniority #": 998,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "JENSEN, ROBERT W.",
+    "Unnamed: 4": "2007-08-20",
+    "Unnamed: 5": "2035-10-01",
+    "Unnamed: 6": 323,
+    "Unnamed: 7": 109
+  },
+  {
+    "Enter Seniority #": 1000,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GARBER, ADAM",
+    "Unnamed: 4": "2011-01-24",
+    "Unnamed: 5": "2033-09-01",
+    "Unnamed: 6": 484,
+    "Unnamed: 7": 110
+  },
+  {
+    "Enter Seniority #": 1003,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "FISHER, BRANDON A.",
+    "Unnamed: 4": "2007-08-20",
+    "Unnamed: 5": "2040-02-01",
+    "Unnamed: 6": 111,
+    "Unnamed: 7": 111
+  },
+  {
+    "Enter Seniority #": 1005,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "FOWLER, DAVID A.",
+    "Unnamed: 4": "2007-08-20",
+    "Unnamed: 5": "2040-04-01",
+    "Unnamed: 6": 107,
+    "Unnamed: 7": 112
+  },
+  {
+    "Enter Seniority #": 1008,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PERRY, JAMAR R.",
+    "Unnamed: 4": "2007-08-20",
+    "Unnamed: 5": "2041-08-01",
+    "Unnamed: 6": 66,
+    "Unnamed: 7": 113
+  },
+  {
+    "Enter Seniority #": 1009,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MICHELS, PETER J.",
+    "Unnamed: 4": "2007-08-20",
+    "Unnamed: 5": "2042-03-01",
+    "Unnamed: 6": 51,
+    "Unnamed: 7": 114
+  },
+  {
+    "Enter Seniority #": 1012,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PARKER, MICHAEL V.",
+    "Unnamed: 4": "2007-08-20",
+    "Unnamed: 5": "2043-09-01",
+    "Unnamed: 6": 24,
+    "Unnamed: 7": 115
+  },
+  {
+    "Enter Seniority #": 1014,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "IRELAND, GREGORY D.",
+    "Unnamed: 4": "2007-08-20",
+    "Unnamed: 5": "2047-03-01",
+    "Unnamed: 6": 2,
+    "Unnamed: 7": 116
+  },
+  {
+    "Enter Seniority #": 1026,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "RICHARDS, DANIEL C.",
+    "Unnamed: 4": "2007-10-01",
+    "Unnamed: 5": "2042-06-01",
+    "Unnamed: 6": 50,
+    "Unnamed: 7": 117
+  },
+  {
+    "Enter Seniority #": 1029,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WILSON II, JAMES P.",
+    "Unnamed: 4": "2007-10-01",
+    "Unnamed: 5": "2044-12-01",
+    "Unnamed: 6": 16,
+    "Unnamed: 7": 118
+  },
+  {
+    "Enter Seniority #": 1035,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SHAAR, OMAR R.",
+    "Unnamed: 4": "2007-10-15",
+    "Unnamed: 5": "2032-08-01",
+    "Unnamed: 6": 592,
+    "Unnamed: 7": 119
+  },
+  {
+    "Enter Seniority #": 1046,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MACDONALD, DANIEL W.",
+    "Unnamed: 4": "2007-10-29",
+    "Unnamed: 5": "2031-11-01",
+    "Unnamed: 6": 659,
+    "Unnamed: 7": 120
+  },
+  {
+    "Enter Seniority #": 1054,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LENNEY, JOSEPH P.",
+    "Unnamed: 4": "2007-10-29",
+    "Unnamed: 5": "2039-05-01",
+    "Unnamed: 6": 162,
+    "Unnamed: 7": 121
+  },
+  {
+    "Enter Seniority #": 1060,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ALBRIGHT, JUSTIN",
+    "Unnamed: 4": "2011-10-10",
+    "Unnamed: 5": "2045-11-01",
+    "Unnamed: 6": 5,
+    "Unnamed: 7": 122
+  },
+  {
+    "Enter Seniority #": 1063,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SHARPLES, JEFF",
+    "Unnamed: 4": "2011-10-10",
+    "Unnamed: 5": "2032-07-01",
+    "Unnamed: 6": 619,
+    "Unnamed: 7": 123
+  },
+  {
+    "Enter Seniority #": 1065,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "NELSON, ADAM B.",
+    "Unnamed: 4": "2007-11-13",
+    "Unnamed: 5": "2039-11-01",
+    "Unnamed: 6": 149,
+    "Unnamed: 7": 124
+  },
+  {
+    "Enter Seniority #": 1076,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "VANDERSLICE, NATHAN",
+    "Unnamed: 4": "2007-11-26",
+    "Unnamed: 5": "2043-02-01",
+    "Unnamed: 6": 42,
+    "Unnamed: 7": 125
+  },
+  {
+    "Enter Seniority #": 1082,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "COFFELT, JAMES",
+    "Unnamed: 4": "2011-11-28",
+    "Unnamed: 5": "2042-02-01",
+    "Unnamed: 6": 72,
+    "Unnamed: 7": 126
+  },
+  {
+    "Enter Seniority #": 1083,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "OLANDER, BRANDON",
+    "Unnamed: 4": "2011-11-28",
+    "Unnamed: 5": "2043-04-01",
+    "Unnamed: 6": 43,
+    "Unnamed: 7": 127
+  },
+  {
+    "Enter Seniority #": 1094,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LORENZO, FREDERIC",
+    "Unnamed: 4": "2011-12-12",
+    "Unnamed: 5": "2041-10-01",
+    "Unnamed: 6": 87,
+    "Unnamed: 7": 128
+  },
+  {
+    "Enter Seniority #": 1100,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KOZAK, ROLAND",
+    "Unnamed: 4": "2012-01-03",
+    "Unnamed: 5": "2026-07-01",
+    "Unnamed: 6": 1054,
+    "Unnamed: 7": 129
+  },
+  {
+    "Enter Seniority #": 1102,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "CALABRESE, CHRISTOPHER",
+    "Unnamed: 4": "2012-01-03",
+    "Unnamed: 5": "2045-12-01",
+    "Unnamed: 6": 7,
+    "Unnamed: 7": 130
+  },
+  {
+    "Enter Seniority #": 1110,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WILTON, BRUCE",
+    "Unnamed: 4": "2012-01-23",
+    "Unnamed: 5": "2041-03-01",
+    "Unnamed: 6": 122,
+    "Unnamed: 7": 131
+  },
+  {
+    "Enter Seniority #": 1119,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "TAYLOR, ANDREW",
+    "Unnamed: 4": "2011-12-12",
+    "Unnamed: 5": "2041-07-01",
+    "Unnamed: 6": 112,
+    "Unnamed: 7": 132
+  },
+  {
+    "Enter Seniority #": 1124,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MARSHALL,GREGORY",
+    "Unnamed: 4": "2012-01-17",
+    "Unnamed: 5": "2028-08-01",
+    "Unnamed: 6": 955,
+    "Unnamed: 7": 133
+  },
+  {
+    "Enter Seniority #": 1125,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GANDARILLAS, ANDREW",
+    "Unnamed: 4": "2012-01-17",
+    "Unnamed: 5": "2031-11-01",
+    "Unnamed: 6": 729,
+    "Unnamed: 7": 134
+  },
+  {
+    "Enter Seniority #": 1132,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "YOUKHANA, ROBERT",
+    "Unnamed: 4": "2012-02-06",
+    "Unnamed: 5": "2048-10-01",
+    "Unnamed: 6": 3,
+    "Unnamed: 7": 135
+  },
+  {
+    "Enter Seniority #": 1136,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KULLICK, ANDREW",
+    "Unnamed: 4": "2012-02-06",
+    "Unnamed: 5": "2040-03-01",
+    "Unnamed: 6": 177,
+    "Unnamed: 7": 136
+  },
+  {
+    "Enter Seniority #": 1141,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WERTZ, GREGORY",
+    "Unnamed: 4": "2012-02-06",
+    "Unnamed: 5": "2043-12-01",
+    "Unnamed: 6": 45,
+    "Unnamed: 7": 137
+  },
+  {
+    "Enter Seniority #": 1145,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "NEFF, CHRIS",
+    "Unnamed: 4": "2012-02-21",
+    "Unnamed: 5": "2034-11-01",
+    "Unnamed: 6": 505,
+    "Unnamed: 7": 138
+  },
+  {
+    "Enter Seniority #": 1151,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KUZMA, DAVID",
+    "Unnamed: 4": "2012-02-21",
+    "Unnamed: 5": "2041-10-01",
+    "Unnamed: 6": 112,
+    "Unnamed: 7": 139
+  },
+  {
+    "Enter Seniority #": 1152,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HINRICHS, BARRY",
+    "Unnamed: 4": "2012-03-05",
+    "Unnamed: 5": "2039-05-01",
+    "Unnamed: 6": 226,
+    "Unnamed: 7": 140
+  },
+  {
+    "Enter Seniority #": 1157,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GRAY, KYLE",
+    "Unnamed: 4": "2012-03-19",
+    "Unnamed: 5": "2044-11-01",
+    "Unnamed: 6": 37,
+    "Unnamed: 7": 141
+  },
+  {
+    "Enter Seniority #": 1160,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HEASTON, PHILLIP",
+    "Unnamed: 4": "2012-03-19",
+    "Unnamed: 5": "2043-10-01",
+    "Unnamed: 6": 56,
+    "Unnamed: 7": 142
+  },
+  {
+    "Enter Seniority #": 1168,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KEARSEY, BOBBY",
+    "Unnamed: 4": "2012-07-09",
+    "Unnamed: 5": "2034-01-01",
+    "Unnamed: 6": 602,
+    "Unnamed: 7": 143
+  },
+  {
+    "Enter Seniority #": 1170,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KLOFT, ROBERT",
+    "Unnamed: 4": "2012-07-09",
+    "Unnamed: 5": "2035-02-01",
+    "Unnamed: 6": 518,
+    "Unnamed: 7": 144
+  },
+  {
+    "Enter Seniority #": 1176,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "EDWARDS JR., ROBERT",
+    "Unnamed: 4": "2012-04-02",
+    "Unnamed: 5": "2029-07-01",
+    "Unnamed: 6": 944,
+    "Unnamed: 7": 145
+  },
+  {
+    "Enter Seniority #": 1177,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PETERSON, JOHN",
+    "Unnamed: 4": "2012-07-23",
+    "Unnamed: 5": "2042-01-01",
+    "Unnamed: 6": 110,
+    "Unnamed: 7": 146
+  },
+  {
+    "Enter Seniority #": 1182,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WILSON, ELLIOT",
+    "Unnamed: 4": "2012-07-23",
+    "Unnamed: 5": "2048-09-01",
+    "Unnamed: 6": 6,
+    "Unnamed: 7": 147
+  },
+  {
+    "Enter Seniority #": 1187,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HILL, JOHN \"DREW'",
+    "Unnamed: 4": "2012-08-08",
+    "Unnamed: 5": "2035-09-01",
+    "Unnamed: 6": 471,
+    "Unnamed: 7": 148
+  },
+  {
+    "Enter Seniority #": 1188,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "VERSHEY, KYLE",
+    "Unnamed: 4": "2012-08-08",
+    "Unnamed: 5": "2038-04-01",
+    "Unnamed: 6": 295,
+    "Unnamed: 7": 149
+  },
+  {
+    "Enter Seniority #": 1192,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DARCEY, ERIN",
+    "Unnamed: 4": "2012-08-08",
+    "Unnamed: 5": "2042-06-01",
+    "Unnamed: 6": 104,
+    "Unnamed: 7": 150
+  },
+  {
+    "Enter Seniority #": 1194,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "RICHARDSON, MATTHEW",
+    "Unnamed: 4": "2012-08-08",
+    "Unnamed: 5": "2045-12-01",
+    "Unnamed: 6": 23,
+    "Unnamed: 7": 151
+  },
+  {
+    "Enter Seniority #": 1206,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BRIDGES, WADE",
+    "Unnamed: 4": "2012-09-10",
+    "Unnamed: 5": "2041-01-01",
+    "Unnamed: 6": 182,
+    "Unnamed: 7": 152
+  },
+  {
+    "Enter Seniority #": 1207,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ONSTOT, JASON",
+    "Unnamed: 4": "2012-06-04",
+    "Unnamed: 5": "2045-02-01",
+    "Unnamed: 6": 45,
+    "Unnamed: 7": 153
+  },
+  {
+    "Enter Seniority #": 1215,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "RODGERS, DAVID",
+    "Unnamed: 4": "2012-10-10",
+    "Unnamed: 5": "2036-04-01",
+    "Unnamed: 6": 435,
+    "Unnamed: 7": 154
+  },
+  {
+    "Enter Seniority #": 1229,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BOWEN, RYAN",
+    "Unnamed: 4": "2012-08-22",
+    "Unnamed: 5": "2046-08-01",
+    "Unnamed: 6": 27,
+    "Unnamed: 7": 155
+  },
+  {
+    "Enter Seniority #": 1231,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ROBERTSON, IAN",
+    "Unnamed: 4": "2012-11-14",
+    "Unnamed: 5": "2040-01-01",
+    "Unnamed: 6": 239,
+    "Unnamed: 7": 156
+  },
+  {
+    "Enter Seniority #": 1237,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GOSS, BRIAN",
+    "Unnamed: 4": "2012-12-03",
+    "Unnamed: 5": "2040-10-01",
+    "Unnamed: 6": 216,
+    "Unnamed: 7": 157
+  },
+  {
+    "Enter Seniority #": 1258,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LIMARDO, ANDREW",
+    "Unnamed: 4": "2013-06-17",
+    "Unnamed: 5": "2034-10-01",
+    "Unnamed: 6": 610,
+    "Unnamed: 7": 158
+  },
+  {
+    "Enter Seniority #": 1259,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "FREEMAN, MARK",
+    "Unnamed: 4": "2013-06-17",
+    "Unnamed: 5": "2040-12-01",
+    "Unnamed: 6": 222,
+    "Unnamed: 7": 159
+  },
+  {
+    "Enter Seniority #": 1261,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "NOLTING, MICHAEL",
+    "Unnamed: 4": "2013-03-06",
+    "Unnamed: 5": "2045-10-01",
+    "Unnamed: 6": 48,
+    "Unnamed: 7": 160
+  },
+  {
+    "Enter Seniority #": 1265,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GRAVES, CHRISTOPHER",
+    "Unnamed: 4": "2013-07-08",
+    "Unnamed: 5": "2039-05-01",
+    "Unnamed: 6": 301,
+    "Unnamed: 7": 161
+  },
+  {
+    "Enter Seniority #": 1268,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MILLER, CAMERON",
+    "Unnamed: 4": "2013-03-06",
+    "Unnamed: 5": "2044-01-01",
+    "Unnamed: 6": 92,
+    "Unnamed: 7": 162
+  },
+  {
+    "Enter Seniority #": 1280,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PRCHAL JR., CHARLES",
+    "Unnamed: 4": "2013-04-01",
+    "Unnamed: 5": "2044-11-01",
+    "Unnamed: 6": 78,
+    "Unnamed: 7": 163
+  },
+  {
+    "Enter Seniority #": 1283,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "OLSON, BRIAN",
+    "Unnamed: 4": "2013-08-12",
+    "Unnamed: 5": "2038-06-01",
+    "Unnamed: 6": 355,
+    "Unnamed: 7": 164
+  },
+  {
+    "Enter Seniority #": 1289,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "CLOUSE, JASON",
+    "Unnamed: 4": "2013-10-21",
+    "Unnamed: 5": "2042-09-01",
+    "Unnamed: 6": 143,
+    "Unnamed: 7": 165
+  },
+  {
+    "Enter Seniority #": 1290,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "EWING, MICHELE",
+    "Unnamed: 4": "2013-10-21",
+    "Unnamed: 5": "2044-06-01",
+    "Unnamed: 6": 88,
+    "Unnamed: 7": 166
+  },
+  {
+    "Enter Seniority #": 1304,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ROSIECKI, KONRAD",
+    "Unnamed: 4": "2014-01-06",
+    "Unnamed: 5": "2038-06-01",
+    "Unnamed: 6": 367,
+    "Unnamed: 7": 167
+  },
+  {
+    "Enter Seniority #": 1308,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "OFSTUN, BRUCE",
+    "Unnamed: 4": "2014-01-22",
+    "Unnamed: 5": "2031-03-01",
+    "Unnamed: 6": 953,
+    "Unnamed: 7": 168
+  },
+  {
+    "Enter Seniority #": 1309,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "NELSON, JOHN",
+    "Unnamed: 4": "2013-07-17",
+    "Unnamed: 5": "2041-07-01",
+    "Unnamed: 6": 213,
+    "Unnamed: 7": 169
+  },
+  {
+    "Enter Seniority #": 1313,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "CIKANEK, NATE",
+    "Unnamed: 4": "2014-01-22",
+    "Unnamed: 5": "2044-06-01",
+    "Unnamed: 6": 94,
+    "Unnamed: 7": 170
+  },
+  {
+    "Enter Seniority #": 1320,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "IRELAND, TIM",
+    "Unnamed: 4": "2014-02-05",
+    "Unnamed: 5": "2049-12-01",
+    "Unnamed: 6": 8,
+    "Unnamed: 7": 171
+  },
+  {
+    "Enter Seniority #": 1327,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SUKO, DAVID",
+    "Unnamed: 4": "2014-02-24",
+    "Unnamed: 5": "2042-12-01",
+    "Unnamed: 6": 147,
+    "Unnamed: 7": 172
+  },
+  {
+    "Enter Seniority #": 1329,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "COX, BRYAN",
+    "Unnamed: 4": "2014-02-24",
+    "Unnamed: 5": "2043-10-01",
+    "Unnamed: 6": 123,
+    "Unnamed: 7": 173
+  },
+  {
+    "Enter Seniority #": 1333,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DUTERTRE, ALBERT",
+    "Unnamed: 4": "2014-03-12",
+    "Unnamed: 5": "2033-07-01",
+    "Unnamed: 6": 785,
+    "Unnamed: 7": 174
+  },
+  {
+    "Enter Seniority #": 1335,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "POORMAN, ANDREW",
+    "Unnamed: 4": "2014-03-12",
+    "Unnamed: 5": "2038-01-01",
+    "Unnamed: 6": 412,
+    "Unnamed: 7": 175
+  },
+  {
+    "Enter Seniority #": 1345,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "JOHNS, KATHRYN",
+    "Unnamed: 4": "2013-08-28",
+    "Unnamed: 5": "2044-07-01",
+    "Unnamed: 6": 102,
+    "Unnamed: 7": 176
+  },
+  {
+    "Enter Seniority #": 1347,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WINIT, MATTHEW",
+    "Unnamed: 4": "2014-03-31",
+    "Unnamed: 5": "2047-01-01",
+    "Unnamed: 6": 38,
+    "Unnamed: 7": 177
+  },
+  {
+    "Enter Seniority #": 1352,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "FACKLAM, NATE",
+    "Unnamed: 4": "2014-04-14",
+    "Unnamed: 5": "2042-09-01",
+    "Unnamed: 6": 170,
+    "Unnamed: 7": 178
+  },
+  {
+    "Enter Seniority #": 1362,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SHANER, TAM",
+    "Unnamed: 4": "2014-05-05",
+    "Unnamed: 5": "2040-03-01",
+    "Unnamed: 6": 315,
+    "Unnamed: 7": 179
+  },
+  {
+    "Enter Seniority #": 1367,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SANDERS, WESLEY",
+    "Unnamed: 4": "2014-07-07",
+    "Unnamed: 5": "2044-10-01",
+    "Unnamed: 6": 101,
+    "Unnamed: 7": 180
+  },
+  {
+    "Enter Seniority #": 1391,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MEYER, JACOB",
+    "Unnamed: 4": "2014-08-04",
+    "Unnamed: 5": "2042-10-01",
+    "Unnamed: 6": 182,
+    "Unnamed: 7": 181
+  },
+  {
+    "Enter Seniority #": 1403,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DOUGHTY, JOSH",
+    "Unnamed: 4": "2014-08-18",
+    "Unnamed: 5": "2041-04-01",
+    "Unnamed: 6": 282,
+    "Unnamed: 7": 182
+  },
+  {
+    "Enter Seniority #": 1407,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BERENS, JOHN",
+    "Unnamed: 4": "2014-08-18",
+    "Unnamed: 5": "2047-04-01",
+    "Unnamed: 6": 43,
+    "Unnamed: 7": 183
+  },
+  {
+    "Enter Seniority #": 1411,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BENEDETTI, MICHAEL",
+    "Unnamed: 4": "2014-09-08",
+    "Unnamed: 5": "2042-03-01",
+    "Unnamed: 6": 224,
+    "Unnamed: 7": 184
+  },
+  {
+    "Enter Seniority #": 1416,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PAGE, ERIC",
+    "Unnamed: 4": "2014-09-22",
+    "Unnamed: 5": "2036-02-01",
+    "Unnamed: 6": 623,
+    "Unnamed: 7": 185
+  },
+  {
+    "Enter Seniority #": 1427,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DANIEL, MICHAEL",
+    "Unnamed: 4": "2014-10-20",
+    "Unnamed: 5": "2041-02-01",
+    "Unnamed: 6": 306,
+    "Unnamed: 7": 186
+  },
+  {
+    "Enter Seniority #": 1428,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KILLMER, CARSTEN",
+    "Unnamed: 4": "2014-10-20",
+    "Unnamed: 5": "2042-07-01",
+    "Unnamed: 6": 217,
+    "Unnamed: 7": 187
+  },
+  {
+    "Enter Seniority #": 1431,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "OLSEN, KRISTOFER",
+    "Unnamed: 4": "2014-10-20",
+    "Unnamed: 5": "2047-01-01",
+    "Unnamed: 6": 52,
+    "Unnamed: 7": 188
+  },
+  {
+    "Enter Seniority #": 1441,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "RARD, GARRICK",
+    "Unnamed: 4": "2014-12-01",
+    "Unnamed: 5": "2037-01-01",
+    "Unnamed: 6": 561,
+    "Unnamed: 7": 189
+  },
+  {
+    "Enter Seniority #": 1444,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DINNIS, WESLEY",
+    "Unnamed: 4": "2014-12-01",
+    "Unnamed: 5": "2042-10-01",
+    "Unnamed: 6": 208,
+    "Unnamed: 7": 190
+  },
+  {
+    "Enter Seniority #": 1445,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LUNDBERG, DONALD",
+    "Unnamed: 4": "2014-12-01",
+    "Unnamed: 5": "2044-04-01",
+    "Unnamed: 6": 152,
+    "Unnamed: 7": 191
+  },
+  {
+    "Enter Seniority #": 1447,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "EASH, ANDREW",
+    "Unnamed: 4": "2014-12-01",
+    "Unnamed: 5": "2046-05-01",
+    "Unnamed: 6": 71,
+    "Unnamed: 7": 192
+  },
+  {
+    "Enter Seniority #": 1450,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LARSON, TIM",
+    "Unnamed: 4": "2014-12-10",
+    "Unnamed: 5": "2031-02-01",
+    "Unnamed: 6": 1092,
+    "Unnamed: 7": 193
+  },
+  {
+    "Enter Seniority #": 1467,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SIMONS, JONATHAN",
+    "Unnamed: 4": "2015-01-07",
+    "Unnamed: 5": "2045-08-01",
+    "Unnamed: 6": 103,
+    "Unnamed: 7": 194
+  },
+  {
+    "Enter Seniority #": 1468,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "RASMUSSEN, IAN",
+    "Unnamed: 4": "2015-01-07",
+    "Unnamed: 5": "2045-08-01",
+    "Unnamed: 6": 103,
+    "Unnamed: 7": 195
+  },
+  {
+    "Enter Seniority #": 1469,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "TAYLOR, DAVID",
+    "Unnamed: 4": "2015-01-21",
+    "Unnamed: 5": "2048-05-01",
+    "Unnamed: 6": 32,
+    "Unnamed: 7": 196
+  },
+  {
+    "Enter Seniority #": 1471,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PANG, GEORGE",
+    "Unnamed: 4": "2015-01-07",
+    "Unnamed: 5": "2048-01-01",
+    "Unnamed: 6": 39,
+    "Unnamed: 7": 197
+  },
+  {
+    "Enter Seniority #": 1474,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "REAVES, BRENT",
+    "Unnamed: 4": "2015-01-26",
+    "Unnamed: 5": "2029-03-01",
+    "Unnamed: 6": 1259,
+    "Unnamed: 7": 198
+  },
+  {
+    "Enter Seniority #": 1475,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GOLDHAMER, CRAIG",
+    "Unnamed: 4": "2015-01-26",
+    "Unnamed: 5": "2036-06-01",
+    "Unnamed: 6": 639,
+    "Unnamed: 7": 199
+  },
+  {
+    "Enter Seniority #": 1490,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "CHANG, TERRENCE",
+    "Unnamed: 4": "2015-02-09",
+    "Unnamed: 5": "2042-11-01",
+    "Unnamed: 6": 233,
+    "Unnamed: 7": 200
+  },
+  {
+    "Enter Seniority #": 1498,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LARSON, MICAH",
+    "Unnamed: 4": "2015-03-16",
+    "Unnamed: 5": "2037-01-01",
+    "Unnamed: 6": 611,
+    "Unnamed: 7": 201
+  },
+  {
+    "Enter Seniority #": 1534,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "EDDY, JONATHAN",
+    "Unnamed: 4": "2015-04-13",
+    "Unnamed: 5": "2039-11-01",
+    "Unnamed: 6": 455,
+    "Unnamed: 7": 202
+  },
+  {
+    "Enter Seniority #": 1543,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "FISCHER, JOHN",
+    "Unnamed: 4": "2015-04-27",
+    "Unnamed: 5": "2041-02-01",
+    "Unnamed: 6": 381,
+    "Unnamed: 7": 203
+  },
+  {
+    "Enter Seniority #": 1554,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BETTS, MATTHEW",
+    "Unnamed: 4": "2015-05-13",
+    "Unnamed: 5": "2047-06-01",
+    "Unnamed: 6": 69,
+    "Unnamed: 7": 204
+  },
+  {
+    "Enter Seniority #": 1564,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MCKUNE, BRYAN",
+    "Unnamed: 4": "2015-06-15",
+    "Unnamed: 5": "2032-06-01",
+    "Unnamed: 6": 1083,
+    "Unnamed: 7": 205
+  },
+  {
+    "Enter Seniority #": 1569,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "CHERVENY, BRIAN",
+    "Unnamed: 4": "2015-06-15",
+    "Unnamed: 5": "2045-04-01",
+    "Unnamed: 6": 154,
+    "Unnamed: 7": 206
+  },
+  {
+    "Enter Seniority #": 1570,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MILLER, MATTHEW",
+    "Unnamed: 4": "2015-06-15",
+    "Unnamed: 5": "2046-02-01",
+    "Unnamed: 6": 118,
+    "Unnamed: 7": 207
+  },
+  {
+    "Enter Seniority #": 1581,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "CASTELLANO, STEVEN",
+    "Unnamed: 4": "2015-06-29",
+    "Unnamed: 5": "2046-11-01",
+    "Unnamed: 6": 95,
+    "Unnamed: 7": 208
+  },
+  {
+    "Enter Seniority #": 1593,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ANDERSON, RAYMOND",
+    "Unnamed: 4": "2015-07-20",
+    "Unnamed: 5": "2044-04-01",
+    "Unnamed: 6": 224,
+    "Unnamed: 7": 209
+  },
+  {
+    "Enter Seniority #": 1626,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SMITH, MATTHEW",
+    "Unnamed: 4": "2015-09-09",
+    "Unnamed: 5": "2035-11-01",
+    "Unnamed: 6": 830,
+    "Unnamed: 7": 210
+  },
+  {
+    "Enter Seniority #": 1637,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BROWN, SARAH",
+    "Unnamed: 4": "2015-09-09",
+    "Unnamed: 5": "2049-06-01",
+    "Unnamed: 6": 34,
+    "Unnamed: 7": 211
+  },
+  {
+    "Enter Seniority #": 1642,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HARGROVE, STUART",
+    "Unnamed: 4": "2015-09-23",
+    "Unnamed: 5": "2043-07-01",
+    "Unnamed: 6": 288,
+    "Unnamed: 7": 212
+  },
+  {
+    "Enter Seniority #": 1644,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "VISCUSO, JOSEPH",
+    "Unnamed: 4": "2015-09-23",
+    "Unnamed: 5": "2045-09-01",
+    "Unnamed: 6": 169,
+    "Unnamed: 7": 213
+  },
+  {
+    "Enter Seniority #": 1655,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MCRAYDE, WILLIAM",
+    "Unnamed: 4": "2015-12-02",
+    "Unnamed: 5": "2045-08-01",
+    "Unnamed: 6": 175,
+    "Unnamed: 7": 214
+  },
+  {
+    "Enter Seniority #": 1657,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "SCHEI, BRIAN",
+    "Unnamed: 4": "2015-12-02",
+    "Unnamed: 5": "2046-07-01",
+    "Unnamed: 6": 134,
+    "Unnamed: 7": 215
+  },
+  {
+    "Enter Seniority #": 1658,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LAMONT, AARON",
+    "Unnamed: 4": "2015-12-02",
+    "Unnamed: 5": "2046-09-01",
+    "Unnamed: 6": 127,
+    "Unnamed: 7": 216
+  },
+  {
+    "Enter Seniority #": 1660,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GIBSON, NICHOLAS",
+    "Unnamed: 4": "2015-12-02",
+    "Unnamed: 5": "2052-08-01",
+    "Unnamed: 6": 5,
+    "Unnamed: 7": 217
+  },
+  {
+    "Enter Seniority #": 1673,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "PHILLIPPI, ADAM",
+    "Unnamed: 4": "2016-02-01",
+    "Unnamed: 5": "2050-12-01",
+    "Unnamed: 6": 15,
+    "Unnamed: 7": 218
+  },
+  {
+    "Enter Seniority #": 1679,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "VEGA, STEPHEN",
+    "Unnamed: 4": "2016-01-20",
+    "Unnamed: 5": "2033-01-01",
+    "Unnamed: 6": 1145,
+    "Unnamed: 7": 219
+  },
+  {
+    "Enter Seniority #": 1698,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LARSON, BRENDAN",
+    "Unnamed: 4": "2016-02-08",
+    "Unnamed: 5": "2039-01-01",
+    "Unnamed: 6": 630,
+    "Unnamed: 7": 220
+  },
+  {
+    "Enter Seniority #": 1706,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "JOHNSON, COLT",
+    "Unnamed: 4": "2016-02-08",
+    "Unnamed: 5": "2055-03-01",
+    "Unnamed: 6": 1,
+    "Unnamed: 7": 221
+  },
+  {
+    "Enter Seniority #": 1715,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "STOUT, JEREMY",
+    "Unnamed: 4": "2016-02-29",
+    "Unnamed: 5": "2042-04-01",
+    "Unnamed: 6": 411,
+    "Unnamed: 7": 222
+  },
+  {
+    "Enter Seniority #": 1716,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GRABB, ROBERT",
+    "Unnamed: 4": "2016-02-29",
+    "Unnamed: 5": "2042-04-01",
+    "Unnamed: 6": 411,
+    "Unnamed: 7": 223
+  },
+  {
+    "Enter Seniority #": 1729,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MCKENNA, CRAIG",
+    "Unnamed: 4": "2016-03-28",
+    "Unnamed: 5": "2033-11-01",
+    "Unnamed: 6": 1116,
+    "Unnamed: 7": 224
+  },
+  {
+    "Enter Seniority #": 1731,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "O'HALLORAN, BLAIR",
+    "Unnamed: 4": "2016-03-28",
+    "Unnamed: 5": "2035-06-01",
+    "Unnamed: 6": 965,
+    "Unnamed: 7": 225
+  },
+  {
+    "Enter Seniority #": 1752,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HATCH, THOMAS",
+    "Unnamed: 4": "2016-06-06",
+    "Unnamed: 5": "2051-09-01",
+    "Unnamed: 6": 18,
+    "Unnamed: 7": 226
+  },
+  {
+    "Enter Seniority #": 1753,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GRAY, JOSHUA",
+    "Unnamed: 4": "2016-06-27",
+    "Unnamed: 5": "2038-05-01",
+    "Unnamed: 6": 718,
+    "Unnamed: 7": 227
+  },
+  {
+    "Enter Seniority #": 1755,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "COX, STEVEN",
+    "Unnamed: 4": "2016-06-27",
+    "Unnamed: 5": "2041-10-01",
+    "Unnamed: 6": 465,
+    "Unnamed: 7": 228
+  },
+  {
+    "Enter Seniority #": 1760,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HORNING, SCOTT",
+    "Unnamed: 4": "2016-06-27",
+    "Unnamed: 5": "2048-01-01",
+    "Unnamed: 6": 90,
+    "Unnamed: 7": 229
+  },
+  {
+    "Enter Seniority #": 1762,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "AMBROSE, PAUL",
+    "Unnamed: 4": "2016-06-27",
+    "Unnamed: 5": "2048-09-01",
+    "Unnamed: 6": 72,
+    "Unnamed: 7": 230
+  },
+  {
+    "Enter Seniority #": 1790,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "MOORE, TRAVIS",
+    "Unnamed: 4": "2016-08-22",
+    "Unnamed: 5": "2044-05-01",
+    "Unnamed: 6": 319,
+    "Unnamed: 7": 231
+  },
+  {
+    "Enter Seniority #": 1803,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "RITTMAN, MARK",
+    "Unnamed: 4": "2016-09-12",
+    "Unnamed: 5": "2047-12-01",
+    "Unnamed: 6": 105,
+    "Unnamed: 7": 232
+  },
+  {
+    "Enter Seniority #": 1813,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GOTTSCHALK, DREW",
+    "Unnamed: 4": "2016-10-24",
+    "Unnamed: 5": "2045-07-01",
+    "Unnamed: 6": 241,
+    "Unnamed: 7": 233
+  },
+  {
+    "Enter Seniority #": 1828,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "KING, STEPHEN",
+    "Unnamed: 4": "2016-11-14",
+    "Unnamed: 5": "2029-05-01",
+    "Unnamed: 6": 1603,
+    "Unnamed: 7": 234
+  },
+  {
+    "Enter Seniority #": 1829,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "WILLIAMS, ERIC",
+    "Unnamed: 4": "2016-11-14",
+    "Unnamed: 5": "2031-05-01",
+    "Unnamed: 6": 1437,
+    "Unnamed: 7": 235
+  },
+  {
+    "Enter Seniority #": 1830,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "CARTY, MICHAEL",
+    "Unnamed: 4": "2016-11-14",
+    "Unnamed: 5": "2036-10-01",
+    "Unnamed: 6": 888,
+    "Unnamed: 7": 236
+  },
+  {
+    "Enter Seniority #": 1831,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "STEWART, MICHAEL",
+    "Unnamed: 4": "2016-11-14",
+    "Unnamed: 5": "2042-01-01",
+    "Unnamed: 6": 497,
+    "Unnamed: 7": 237
+  },
+  {
+    "Enter Seniority #": 1833,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "GONZALES, MARK",
+    "Unnamed: 4": "2016-11-14",
+    "Unnamed: 5": "2046-01-01",
+    "Unnamed: 6": 218,
+    "Unnamed: 7": 238
+  },
+  {
+    "Enter Seniority #": 1848,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "HANSEN, JIM",
+    "Unnamed: 4": "2016-11-28",
+    "Unnamed: 5": "2048-11-01",
+    "Unnamed: 6": 80,
+    "Unnamed: 7": 239
+  },
+  {
+    "Enter Seniority #": 1862,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "DELK, ANDREW",
+    "Unnamed: 4": "2016-12-28",
+    "Unnamed: 5": "2037-08-01",
+    "Unnamed: 6": 843,
+    "Unnamed: 7": 240
+  },
+  {
+    "Enter Seniority #": 1873,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "ANDERSON, MICHAEL",
+    "Unnamed: 4": "2017-01-04",
+    "Unnamed: 5": "2043-08-01",
+    "Unnamed: 6": 397,
+    "Unnamed: 7": 241
+  },
+  {
+    "Enter Seniority #": 1883,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "STUMETZ, DONALD",
+    "Unnamed: 4": "2017-01-18",
+    "Unnamed: 5": "2036-10-01",
+    "Unnamed: 6": 936,
+    "Unnamed: 7": 242
+  },
+  {
+    "Enter Seniority #": 1885,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "LUTZ, JOE",
+    "Unnamed: 4": "2017-01-18",
+    "Unnamed: 5": "2042-01-01",
+    "Unnamed: 6": 528,
+    "Unnamed: 7": 243
+  },
+  {
+    "Enter Seniority #": 1889,
+    "Unnamed: 1": "PDX",
+    "Unnamed: 2": "CA",
+    "Unnamed: 3": "BLANCO, CHRISTOPHER",
+    "Unnamed: 4": "2017-01-18",
+    "Unnamed: 5": "2047-01-01",
+    "Unnamed: 6": 174,
+    "Unnamed: 7": 244
+  }
+]

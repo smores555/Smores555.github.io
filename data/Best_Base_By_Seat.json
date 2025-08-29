@@ -1,0 +1,86 @@
+[
+  {
+    "Enter Seniority # ——->": null,
+    "2258": null,
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null
+  },
+  {
+    "Enter Seniority # ——->": "Seat",
+    "2258": "Base",
+    "Unnamed: 2": "Rank in base",
+    "Unnamed: 3": "Total in base",
+    "Unnamed: 4": "Base % (rank/total)"
+  },
+  {
+    "Enter Seniority # ——->": "CA",
+    "2258": "ANC",
+    "Unnamed: 2": 154,
+    "Unnamed: 3": 153,
+    "Unnamed: 4": 1.006535948
+  },
+  {
+    "Enter Seniority # ——->": "FO",
+    "2258": "ANC",
+    "Unnamed: 2": 52,
+    "Unnamed: 3": 153,
+    "Unnamed: 4": 0.339869281
+  },
+  {
+    "Enter Seniority # ——->": "CA",
+    "2258": "SEA",
+    "Unnamed: 2": 828,
+    "Unnamed: 3": 827,
+    "Unnamed: 4": 1.00120919
+  },
+  {
+    "Enter Seniority # ——->": "FO",
+    "2258": "SEA",
+    "Unnamed: 2": 248,
+    "Unnamed: 3": 751,
+    "Unnamed: 4": 0.3302263648
+  },
+  {
+    "Enter Seniority # ——->": "CA",
+    "2258": "PDX",
+    "Unnamed: 2": 245,
+    "Unnamed: 3": 244,
+    "Unnamed: 4": 1.004098361
+  },
+  {
+    "Enter Seniority # ——->": "FO",
+    "2258": "PDX",
+    "Unnamed: 2": 104,
+    "Unnamed: 3": 226,
+    "Unnamed: 4": 0.4601769912
+  },
+  {
+    "Enter Seniority # ——->": "CA",
+    "2258": "SFO",
+    "Unnamed: 2": 242,
+    "Unnamed: 3": 246,
+    "Unnamed: 4": 0.9837398374
+  },
+  {
+    "Enter Seniority # ——->": "FO",
+    "2258": "SFO",
+    "Unnamed: 2": 26,
+    "Unnamed: 3": 208,
+    "Unnamed: 4": 0.125
+  },
+  {
+    "Enter Seniority # ——->": "CA",
+    "2258": "LAX",
+    "Unnamed: 2": 288,
+    "Unnamed: 3": 287,
+    "Unnamed: 4": 1.003484321
+  },
+  {
+    "Enter Seniority # ——->": "FO",
+    "2258": "LAX",
+    "Unnamed: 2": 80,
+    "Unnamed: 3": 258,
+    "Unnamed: 4": 0.3100775194
+  }
+]
