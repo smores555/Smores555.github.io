@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pilot Tables</title>
+  <!-- Tabulator CSS -->
+  <link href="https://unpkg.com/tabulator-tables@6.4.0/dist/css/tabulator.min.css" rel="stylesheet">
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; }
+    header { display:flex; gap:16px; align-items:center; flex-wrap:wrap; margin-bottom: 16px; }
+    select, button { padding: 8px 12px; border: 1px solid #ccc; border-radius: 6px; background: #fff; }
+    .toolbar { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+    #table { border: 1px solid #ddd; }
+    .note { color:#555; font-size: 0.9rem; margin-top: 6px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 style="margin:0">Pilot Tables</h1>
+    <div class="toolbar">
+      <label for="sheetSel">Sheet:</label>
+      <select id="sheetSel"></select>
+      <button id="downloadCSV">Download CSV</button>
+      <button id="downloadJSON">Download JSON</button>
+      <button id="downloadXLSX">Download Excel (.xlsx)</button>
+      <button id="resetFilters">Reset Filters</button>
+    </div>
+  </header>
+
+  <div id="table"></div>
+  <p class="note">
+    Tip: You can edit cells in place. Sort by clicking column headers. Use the filter icon in headers to narrow rows.
+    Download your edits with the buttons above. To make edits persistent for everyone, host this behind a small backend;
+    see the inline comments in this file for pointers.
+  </p>
+
+  <!-- Dependencies: Tabulator and SheetJS (for Excel export) -->
+  <script src="https://unpkg.com/tabulator-tables@6.4.0/dist/js/tabulator.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+
+  <script>
+    // Manifest is injected by Python so the page knows the available sheets
+    const MANIFEST = [
+  {
+    "sheet": "Best_Base_By_Seat",
+    "file": "data/Best_Base_By_Seat.json",
+    "columns": [
+      "Enter Seniority # ——->",
+      "2258",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4"
+    ]
+  },
+  {
+    "sheet": "ANC_CA",
+    "file": "data/ANC_CA.json",
+    "columns": [
+      "Enter Seniority #",
+      "2234",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  {
+    "sheet": "ANC_FO",
+    "file": "data/ANC_FO.json",
+    "columns": [
+      "Enter Seniority #",
+      "2609",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8"
+    ]
+  },
+  {
+    "sheet": "SEA_CA",
+    "file": "data/SEA_CA.json",
+    "columns": [
+      "Enter Seniority #",
+      "20",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  {
+    "sheet": "SEA_FO",
+    "file": "data/SEA_FO.json",
+    "columns": [
+      "Enter Seniority #",
+      "2670",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  {
+    "sheet": "PDX_CA",
+    "file": "data/PDX_CA.json",
+    "columns": [
+      "Enter Seniority #",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  {
+    "sheet": "PDX_FO",
+    "file": "data/PDX_FO.json",
+    "columns": [
+      "Enter Seniority #",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  {
+    "sheet": "SFO_CA",
+    "file": "data/SFO_CA.json",
+    "columns": [
+      "Enter Seniority #",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  {
+    "sheet": "SFO_FO",
+    "file": "data/SFO_FO.json",
+    "columns": [
+      "Enter Seniority #",
+      "2670",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  {
+    "sheet": "LAX_CA",
+    "file": "data/LAX_CA.json",
+    "columns": [
+      "Enter Seniority #",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  {
+    "sheet": "LAX_FO",
+    "file": "data/LAX_FO.json",
+    "columns": [
+      "Enter Seniority #",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  {
+    "sheet": "Cutlines_Summary",
+    "file": "data/Cutlines_Summary.json",
+    "columns": [
+      "Base",
+      "Position",
+      "Seniority # to hold",
+      "Most junior DOH",
+      "Name"
+    ]
+  }
+];
+
+    const sel = document.getElementById("sheetSel");
+    const tableEl = document.getElementById("table");
+
+    // Populate sheet dropdown
+    MANIFEST.forEach((m, idx) => {
+      const opt = document.createElement("option");
+      opt.value = m.file;
+      opt.textContent = m.sheet;
+      sel.appendChild(opt);
+    });
+
+    // Build Tabulator with some sensible defaults
+    let table = null;
+
+    function columnsFromKeys(keys) {
+      // Create Tabulator columns with header filters and editors
+      return keys.map(k => {
+        return {
+          title: String(k),
+          field: String(k),
+          headerFilter: true,
+          editor: "input",
+          // format numbers nicely if they look numeric
+          mutator: function(value) {
+            return value;
+          },
+        };
+      });
+    }
+
+    async function loadSheet(file) {
+      const meta = MANIFEST.find(x => x.file === file);
+      const res = await fetch(file);
+      const data = await res.json();
+
+      // Build columns from the union of keys across rows (guard against ragged data)
+      const keySet = new Set();
+      data.forEach(row => Object.keys(row || {}).forEach(k => keySet.add(k)));
+      const cols = columnsFromKeys(Array.from(keySet));
+
+      if (table) table.destroy();
+
+      table = new Tabulator(tableEl, {
+        data,
+        columns: cols,
+        layout: "fitDataStretch",
+        reactiveData: true,
+        clipboard: true,
+        height: "70vh",
+        columnDefaults: {
+          headerSort: true,
+          headerFilter: "input",
+        },
+      });
+    }
+
+    // Initial load
+    loadSheet(sel.value || MANIFEST[0].file);
+
+    sel.addEventListener("change", () => loadSheet(sel.value));
+
+    // Downloads
+    document.getElementById("downloadCSV").addEventListener("click", () => {
+      const name = (sel.options[sel.selectedIndex]?.text || "table").replace(/\s+/g, "_");
+      table.download("csv", name + ".csv");
+    });
+
+    document.getElementById("downloadJSON").addEventListener("click", () => {
+      const name = (sel.options[sel.selectedIndex]?.text || "table").replace(/\s+/g, "_");
+      table.download("json", name + ".json");
+    });
+
+    document.getElementById("downloadXLSX").addEventListener("click", () => {
+      const name = (sel.options[sel.selectedIndex]?.text || "table").replace(/\s+/g, "_");
+      table.download("xlsx", name + ".xlsx", { sheetName: "Data" });
+    });
+
+    document.getElementById("resetFilters").addEventListener("click", () => {
+      table.clearFilter(true);
+      table.clearHeaderFilter();
+    });
+
+    /* —— Saving edits for everyone ————————————————————————————————
+       This page is "static": users can edit & export their copy locally.
+       If you want edits to persist for all users, you have two options:
+
+       (A) Use a serverless DB + REST API (e.g., Supabase, Firebase).
+           - Replace the fetch() call in loadSheet() with an API call that
+             returns rows from a table.
+           - Hook into Tabulator's dataEdited callback to POST updates.
+
+       (B) Host a tiny JSON file write API.
+           - Node/Express example: POST /save with JSON body, write to disk.
+           - Then call fetch('/save', {method:'POST', body: JSON.stringify(table.getData())})
+
+       Ping me and I can generate a backend starter for either path.
+    */ 
+  </script>
+</body>
+</html>
